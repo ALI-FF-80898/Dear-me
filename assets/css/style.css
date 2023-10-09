@@ -61,9 +61,9 @@ body, html {
     margin: 10px 10px;
     font-size: 30px;
   }
-  .topleft small{
+  /* .topleft small{
     font-size: 18px;
-  }
+  } */
   /* Position text in the bottom-left corner */
   .bottomleft {
     position: absolute;
