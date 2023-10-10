@@ -54,7 +54,7 @@ body, html {
     position: absolute;
     top: 10px;
     left: 10px;
-    color: black;
+    /* color: black; */
     font-weight: 800;
   }
   .topleft p{
